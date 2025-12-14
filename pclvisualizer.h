@@ -29,20 +29,21 @@
 // Point Cloud Library
 #include <QColorDialog>
 #include <iostream>
-#include <pcl/common/common.h>
-#include <pcl/console/time.h> // TicToc
-#include <pcl/console/time.h>
-#include <pcl/filters/convolution_3d.h>
-#include <pcl/filters/filter.h>
-#include <pcl/filters/radius_outlier_removal.h>
-#include <pcl/filters/statistical_outlier_removal.h>
-#include <pcl/io/pcd_io.h>
-#include <pcl/io/ply_io.h>
-#include <pcl/kdtree/kdtree_flann.h>
-#include <pcl/point_cloud.h>
-#include <pcl/point_types.h>
-#include <pcl/visualization/cloud_viewer.h>
-#include <pcl/visualization/pcl_visualizer.h>
+
+#include "pcl/common/common.h"
+#include "pcl/console/time.h" // TicToc
+#include "pcl/filters/convolution_3d.h"
+#include "pcl/filters/filter.h"
+#include "pcl/filters/radius_outlier_removal.h"
+#include "pcl/filters/statistical_outlier_removal.h"
+#include "pcl/io/pcd_io.h"
+#include "pcl/io/ply_io.h"
+#include "pcl/kdtree/kdtree_flann.h"
+#include "pcl/point_cloud.h"
+#include "pcl/point_types.h"
+#include "pcl/visualization/cloud_viewer.h"
+#include "pcl/visualization/pcl_visualizer.h"
+
 
 #include <boost/random.hpp> //随机数
 #include <boost/thread/thread.hpp>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\CMakeFiles\9f379a2e52187b9c16b210209c659c91\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4B36674C-1356-3B63-894F-68E3AD9D3EF1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\PointCloudViewer_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\pclvisualizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\inputdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\PointCloudViewer_autogen\EWIEGA46WW\qrc_images.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\PointCloudViewer_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\PointCloudViewer_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\PointCloudViewer_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\PointCloudViewer_autogen\include_Debug\ui_pclvisualizer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\PointCloudViewer_autogen\include_Debug\ui_inputdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\PointCloudViewer_autogen\include_Release\ui_pclvisualizer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\PointCloudViewer_autogen\include_Release\ui_inputdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\PointCloudViewer_autogen\include_MinSizeRel\ui_pclvisualizer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\PointCloudViewer_autogen\include_MinSizeRel\ui_inputdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\PointCloudViewer_autogen\include_RelWithDebInfo\ui_pclvisualizer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\PointCloudViewer_autogen\include_RelWithDebInfo\ui_inputdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\CMakeFiles\08be540d1243e1774c022f0502f37701\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\CMakeFiles\a77690fdb8ed19cb8c590e4d5b2398f2\qrc_images.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\pclvisualizer.ui" />
+    <None Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\inputdialog.ui" />
+    <None Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\images.qrc" />
+    <None Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\PointCloudViewer_autogen\autouic_Debug.stamp" />
+    <None Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\PointCloudViewer_autogen\autouic_Release.stamp" />
+    <None Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\PointCloudViewer_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\build\PointCloudViewer_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\MyCode_File\Qt_Code\Qt_Code_git\3D_PointCoud\logo.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4B36674C-1356-3B63-894F-68E3AD9D3EF1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{DB0ADADD-8A90-3D5F-8061-DA477A09F06E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3904B2E7-CB05-39E6-A5FE-6421CAF27D04}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
